@@ -1,0 +1,5 @@
+echo "============================="
+echo "Selamat Datang di Menu Utama"
+echo "----------------------------"
+echo "1. Monitoring Sistem"
+echo "Pengelolaan User"
