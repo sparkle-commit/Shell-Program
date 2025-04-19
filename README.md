@@ -1,2 +1,2 @@
-# program
-repo untuk menyimpan program sederhana
+# Program
+repo untuk menyimpan shell scripting sederhana
